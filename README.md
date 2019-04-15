@@ -31,8 +31,8 @@ https://blog.csdn.net/lvoyee/article/details/88599763   (然后在看这个链�
 
 #### 代码有没有用？
 - A： 已经刷完通过了！ 
-![image](http://ws3.sinaimg.cn/large/007GIDuUgy1g1kr0g92nrj30u01qcq91.jpg) 
-
+!['yicheng'](http://wx3.sinaimg.cn/large/007GIDuUgy1g23n5dubujj308c0hbab0.jpg)
 
 #### 需要准备什么呢？
 -A: 看提供的两个文章的连接，里面有详细的描述了！ 不懂的可以加入我们的Q群...
+QQ群号 ： 816175200
