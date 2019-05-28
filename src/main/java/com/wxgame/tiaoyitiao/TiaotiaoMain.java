@@ -151,9 +151,9 @@ public class TiaotiaoMain {
 
     }
 
+    // 获取手机截图
     private static void getScreenshot() {
         try {
-            // 获取手机截图
             Runtime.getRuntime()
                     .exec("adb shell /system/bin/screencap -p /sdcard/screenshot.png");
             Thread.sleep(1000);
