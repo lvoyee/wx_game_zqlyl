@@ -15,11 +15,6 @@
 
 idea & jdk1.8
 
-## 运行效果图
-![image](http://ws4.sinaimg.cn/large/007GIDuUgy1g1krdmcqroj30gx05k0sp.jpg)
-
-
-
 
 ## 更多细节请参考一下两个链接
 https://blog.csdn.net/lcl1997/article/details/83475388 （建议先看这个链接）
